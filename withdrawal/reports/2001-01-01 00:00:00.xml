@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<withdrawal version="8">
+	<trade_participant_inn>123456789</trade_participant_inn>
+	<withdrawal_type>DISTANCE</withdrawal_type>
+	<withdrawal_date>2001-01-01 00:00:00</withdrawal_date>
+	<primary_document_type>OTHER</primary_document_type>
+	<primary_document_number>112233</primary_document_number>
+	<primary_document_date>2001-01-01 00:00:00</primary_document_date>
+	<primary_document_custom_name>АКТПРИЕМАПЕРЕДАЧИ</primary_document_custom_name>
+	<products_list>
+		<product>
+			<cis>123456789</cis>
+			<cost>100000</cost>
+		</product>
+		<product>
+			<cis>987654321</cis>
+			<cost>200000</cost>
+		</product>
+	</products_list>
+</withdrawal>

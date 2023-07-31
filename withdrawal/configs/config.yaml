@@ -1,0 +1,14 @@
+ozon:
+  settings:
+    columns:
+      id: 1
+      vendor_code: 2
+      size: 3
+      cis: 4
+      sending_id: 5
+      sale_price: 6
+      payroll: 7
+      act_of_sale_id: 8
+      data_sale: 9
+      act_of_return_id: 10
+      data_return: 11

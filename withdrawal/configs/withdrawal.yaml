@@ -1,0 +1,6 @@
+ozon:
+  withdrawal:
+    inn: 123456789
+    document_path: "/path_to/delivery.xlsx"
+    month: "январь"
+    data: "2001-01-01"
